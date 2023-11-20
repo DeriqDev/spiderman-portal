@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path id="SunCatcherStudio" fill="none" stroke="none" 
+d="m 31.233725,31.233725 c 0,0 61.574343,63.73891 168.766275,63.73891 121.84084,0 168.76627,-63.73891 168.76627,-63.73891" /> 
+     
+<text font-size="30" fill="#1d1111" letter-spacing="1" font-family="sans-serif" font-weight="bold">
+<textPath xlink:href="#SunCatcherStudio" side="left" startOffset="5">Across the Spider-Verse</textPath></text>
+</svg>
